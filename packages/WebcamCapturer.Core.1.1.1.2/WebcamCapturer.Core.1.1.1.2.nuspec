@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WebcamCapturer.Core</id>
+    <version>1.1.1.2</version>
+    <title>WebcamCapturer.Core</title>
+    <authors>Rafael Gomez</authors>
+    <owners>Rafael Gomez</owners>
+    <licenseUrl>https://github.com/rgomez90/WebcamCapturer.Controls/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/rgomez90/WebcamCapturer.Controls</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Easy capture video from your webcam in .NET</description>
+    <summary />
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>winForms webcam capture WPF</tags>
+    <dependencies>
+      <dependency id="AForge.Video.DirectShow" version="2.2.5" />
+    </dependencies>
+  </metadata>
+</package>

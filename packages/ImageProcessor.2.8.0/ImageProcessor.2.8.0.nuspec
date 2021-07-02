@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ImageProcessor</id>
+    <version>2.8.0</version>
+    <title>ImageProcessor</title>
+    <authors>James Jackson-South</authors>
+    <owners>James Jackson-South</owners>
+    <projectUrl>http://imageprocessor.org/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/imageprocessor/2.8.0/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Image Processor is an easy to use and extend processing library written in C#. Its fluent API makes common imaging tasks very simple to perform.
+      
+      Methods include; Resize, Rotate, Rounded Corners, Flip, Crop, Watermark, Filter, Saturation, Brightness, Contrast, Quality, Format, Vignette, Gaussian Blur, Gaussian Sharpen, and Transparency.
+      
+      If you use ImageProcessor please get in touch on my twitter @james_m_south.
+      
+      Feedback is always welcome.</description>
+    <summary>A fluent wrapper around System.Drawing for the processing of image files.</summary>
+    <copyright>James Jackson-South</copyright>
+    <language>en-GB</language>
+    <tags>Image Resize Crop Rotate Quality Watermark Gif Jpg Jpeg Bitmap Png Tiff Fluent Animated EXIF</tags>
+  </metadata>
+</package>
